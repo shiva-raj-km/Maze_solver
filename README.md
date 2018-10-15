@@ -6,7 +6,7 @@ What is Maze slover ?
 The robot will slove the given 2d maze or grid in shortest path avoiding the non passable nodes by using the line following principles.
 
 Working principle:
-As mentioned earlier it uses a line following technique to traverse the maze, and to find the shortest path it uses flood fill algorithm, here for this we have developed a algorithm using the principles of flood fill and adding some features which are needed, the code for each individual step has be posted. 
+As mentioned earlier it uses a line following technique to traverse the maze, and to find the shortest path it uses flood fill algorithm, here for this we have developed a algorithm using the principles of flood fill and adding some features which are needed, the code for each individual step has been posted. 
 
 Hardware requirements:
 1. Arduino nao or uno or any microcontroller.
@@ -18,3 +18,5 @@ Hardware requirements:
 Software:
 Arduino IDE
 Make sure you have installed stack array library for it. (link to download - https://playground.arduino.cc/Code/StackArray )
+
+
