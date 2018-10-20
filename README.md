@@ -10,7 +10,7 @@ As mentioned earlier it uses a line following technique to traverse the maze, an
 
 Hardware requirements:
 1. Arduino nao or uno or any microcontroller.
-![](
+![]/(master/images/Arduino_nano.jpeg)
 
 2. Motor driver module (H-brige circuit) L293d module has been used.
 3. Motors of 4 nos 12V 150 RPM has been used (you can use 300 rpm motors but reduce the speed if you have any issue by using PWM)
