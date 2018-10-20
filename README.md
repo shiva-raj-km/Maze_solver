@@ -10,9 +10,12 @@ As mentioned earlier it uses a line following technique to traverse the maze, an
 
 Hardware requirements:
 1. Arduino nao or uno or any microcontroller.
+
+
 2. Motor driver module (H-brige circuit) L293d module has been used.
 3. Motors of 4 nos 12V 150 RPM has been used (you can use 300 rpm motors but reduce the speed if you have any issue by using PWM)
 4. Sensor - IR sensor array (8 sensors in one board)
+mtp://%5Busb%3A001,003%5D/Internal%20shared%20storage/Download/sensor_array-2_large.jpg
 5. Chassis - Make sure your bot size is compact (solid works design of the file is included)
 
 Software:
